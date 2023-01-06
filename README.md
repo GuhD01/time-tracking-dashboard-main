@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click This](https://github.com/GuhD01/time-tracking-dashboard-main/tree/main)
-- Live Site URL: [Click this](https://your-live-site-url.com)
+- Live Site URL: [Click this](https://guhd01.github.io/time-tracking-dashboard-main/)
 
 ## My process
 
