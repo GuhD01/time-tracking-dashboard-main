@@ -248,15 +248,6 @@ section p {
   background-color: var(--self-care);
 }
 
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
-
 @media (max-width: 1200px) {
   html {
       font-size: 18px;
