@@ -13,7 +13,7 @@ This is a solution to the Time tracking dashboard Quiz 2 challenge
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [My Detail](#My Detail)
+- [My Detail](#My-Detail)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
